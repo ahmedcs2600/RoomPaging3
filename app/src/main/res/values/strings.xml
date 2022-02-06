@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaggingRoomDatabase</string>
+    <string name="insert_button_label">Insert Data</string>
+    <string name="show_list">Show List</string>
+</resources>
